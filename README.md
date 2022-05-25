@@ -4,9 +4,9 @@
 
 ### Used lib's:
 
-1. TinyGPSPlus (Date / Time / Location operating)
+1. TinyGPSPlus (Date-Time-Location Sensor)
 2. TFT_eSPI (Built-in Display)
-3. MAX30105 (IR sensor library)
+3. MAX30105 (IR Sensor)
 4. SimpleTimer
 5. SoftwareSerial 
 6. Wire
