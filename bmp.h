@@ -2,7 +2,7 @@
 *                                                                             *
 *   Program : TTGO_smart_watch                                                *
 *                                                                             *
-*   Date : 25 / 05 / 2022                                                     *
+*   Date : 06 / 06 / 2022                                                     *
 *                                                                             *
 *   Programmer : Nikita Seliverstov (nikselko)                                *
 *                                                                             *

@@ -2,7 +2,7 @@
 *                                                                             *
 *   Program : TTGO_smart_watch                                                *
 *                                                                             *
-*   Date : 25 / 05 / 2022                                                     *
+*   Date : 06 / 06 / 2022                                                     *
 *                                                                             *
 *   Programmer : Nikita Seliverstov (nikselko)                                *
 *                                                                             *
@@ -14,13 +14,19 @@
 #include "bioData.h"
 #include "User_Setup.h"
 #include <TFT_eSPI.h>
+#include <SPI.h>
 
 struct TFTEngine
 {
+public:
   TFT_eSPI tft = TFT_eSPI();
   GeoData geo = GeoData();
   BioData bio = BioData();
-public:
-  void displayInfo();
+  
+  void displayTimePage();
+  void displayGpsPage();
+  void displayHeartPage();
+  int tmp_today;
+  
   TFTEngine();
 };
