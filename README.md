@@ -7,9 +7,10 @@
 1. TinyGPSPlus (Date-Time-Location Sensor)
 2. TFT_eSPI (Built-in Display)
 3. MAX30105 (IR Sensor)
-4. SimpleTimer
-5. SoftwareSerial 
-6. Wire
+4. SPI
+5. SimpleTimer
+6. SoftwareSerial 
+7. Wire
 
 ### Used Hardware's:
 
@@ -19,4 +20,12 @@
  
 ### LilyGo TTGO Example:
 
-![image](https://user-images.githubusercontent.com/46798613/170359036-af4ac7ff-8b08-44e2-b35c-053d563e9d9d.png)
+#### Image 1: Date/Time 
+![image](![image](https://user-images.githubusercontent.com/46798613/172199011-56d3ee17-bd13-4581-a5ee-be89ccb3c223.png))
+
+#### Image 2: GPS 
+![image](https://user-images.githubusercontent.com/46798613/172199072-5f7a1c0a-c562-4d44-8a3a-8dabed0f1116.png)
+
+#### Image 2: Pulse Oximeter 
+![image](https://user-images.githubusercontent.com/46798613/172199191-5f3bc68b-c93c-4e25-a986-dd6d353bae8c.png)
+
