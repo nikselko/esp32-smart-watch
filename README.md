@@ -17,6 +17,8 @@
 1. LilyGO TTGo T-Display ESP32
 2. ATGM336H
 3. MAX30105 
+
+#### CODE IS UNDER MIT LICENSE
  
 ### LilyGo TTGO Example:
 
