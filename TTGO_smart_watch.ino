@@ -27,9 +27,9 @@ byte m_state = INIT_STATE;
 void setup()
 {
   m_TFT.bio.particleSensor.begin(Wire, I2C_SPEED_FAST);  
-  m_TFT.bio.particleSensor.setup(); //Configure sensor with default settings
-  m_TFT.bio.particleSensor.setPulseAmplitudeRed(0x0A); //Turn Red LED to low to indicate sensor is running
-  m_TFT.bio.particleSensor.setPulseAmplitudeGreen(0); //Turn off Green LED     
+  m_TFT.bio.particleSensor.setup(); 
+  m_TFT.bio.particleSensor.setPulseAmplitudeRed(0x0A);
+  m_TFT.bio.particleSensor.setPulseAmplitudeGreen(0);    
   ss.begin(GPSBaud);
   Serial.begin(GPSBaud);
   Serial.print(F("TinyGPSPlus library v. ")); Serial.println(TinyGPSPlus::libraryVersion());
