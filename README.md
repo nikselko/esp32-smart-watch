@@ -1,6 +1,6 @@
 # ESP32_Smart_Watch
 
-## Basic implementation of Smart-Watch device on ESP32 chipset with built in display. 
+## C++ implementation of Smart-Watch with GPS and Pulseoximeter. 
 
 ### Used lib's:
 
@@ -21,11 +21,11 @@
 ### LilyGo TTGO Example:
 
 #### Image 1: Date/Time 
-![image](![image](https://user-images.githubusercontent.com/46798613/172199011-56d3ee17-bd13-4581-a5ee-be89ccb3c223.png))
+![image](https://user-images.githubusercontent.com/46798613/172199011-56d3ee17-bd13-4581-a5ee-be89ccb3c223.png)
 
 #### Image 2: GPS 
 ![image](https://user-images.githubusercontent.com/46798613/172199072-5f7a1c0a-c562-4d44-8a3a-8dabed0f1116.png)
 
-#### Image 2: Pulse Oximeter 
+#### Image 3: Pulse Oximeter 
 ![image](https://user-images.githubusercontent.com/46798613/172199191-5f3bc68b-c93c-4e25-a986-dd6d353bae8c.png)
 
