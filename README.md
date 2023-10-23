@@ -31,3 +31,7 @@
 #### Image 3: Pulse Oximeter 
 ![image](https://user-images.githubusercontent.com/46798613/172199191-5f3bc68b-c93c-4e25-a986-dd6d353bae8c.png)
 
+#### CODE IS UNDER MIT LICENSE
+
+
+
